@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=playerArray
+comment0.target=Scoreboard(Player[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scoreboard\r\n
+comment1.params=
+comment1.target=void\ displayScores()
+comment1.text=\r\n\ Display\ all\ players'\ current\ scores\ as\ of\ the\ end\ of\ the\ most\ recent\ turn\r\n
+comment2.params=firstPlayerToFinish
+comment2.target=void\ computeFinalScores(int)
+comment2.text=\r\n\ After\ the\ first\ player\ to\ finish\ has\ played\ his\ or\ her\ last\ tile,\ go\ around\ to\ the\ other\ players\ and\r\n\ sum\ up\ the\ values\ of\ their\ tiles.\ \r\n\ \r\n\ Add\ that\ subtotal\ to\ the\ finishing\ player's\ score\ while\ subtracting\ the\r\n\ same\ amount\ from\ the\ current\ non-finishing\ player.\r\n\ \r\n\ Get\ final\ scores,\ declare\ winner,\ and\ end\ the\ game\!\r\n\ \r\n\ and\ boom\ goes\ the\ dynamite\r\n\ \r\n
+numComments=3

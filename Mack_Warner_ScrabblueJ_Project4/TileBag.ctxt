@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TileBag()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TileBag\r\n
+comment1.params=index
+comment1.target=Tile\ getTileInBag(int)
+comment1.text=\r\n\ retrieves\ the\ tile\ in\ the\ TileBag\ object\ at\ the\ specified\ index\ \r\n\ (used\ in\ exchanging\ tiles\ between\ the\ tileBag\ and\ the\ rack)\r\n
+comment2.params=index\ tile
+comment2.target=void\ setTileInBag(int,\ Tile)
+comment2.text=\r\n\ updates\ the\ tile\ in\ the\ TileBag\ object\ at\ the\ specified\ index\ \r\n\ (used\ in\ exchanging\ tiles\ between\ the\ tileBag\ and\ the\ rack)\r\n
+comment3.params=
+comment3.target=void\ printTilesInBag()
+comment3.text=\r\n\ TODO\:\ May\ wish\ to\ delete...\ at\ present\ I\ don't\ think\ this\ is\ used,\ but\ I'll\ hold\ onto\ it\ for\ now\r\n
+comment4.params=
+comment4.target=int\ getNumberOfTilesInBag()
+comment4.text=\r\n\ Counts\ the\ number\ of\ playable\ (non-null)\ tiles\ remaining\ in\ the\ tileBag\ object\r\n
+numComments=5

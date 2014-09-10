@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rack()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rack\r\n
+comment1.params=originalRack
+comment1.target=Rack(Rack)
+comment1.text=\r\n\ COPY\ constructor\ for\ objects\ of\ class\ Rack\r\n
+comment2.params=rackPosition
+comment2.target=Tile\ getTileOnRack(int)
+comment2.text=\r\n\ Enables\ access\ to\ individual\ tiles\ on\ the\ player's\ rack\r\n\ TODO\:\ For\ Project\ 4,\ update\ as\ needed\ for\ appropriate\ Collection\ class\r\n
+comment3.params=rackPosition\ tile
+comment3.target=void\ setTileOnRack(int,\ Tile)
+comment3.text=\r\n\ Assigns\ new\ value\ to\ tile\ on\ Rack\r\n\ TODO\:\ For\ Project\ 4,\ update\ as\ needed\ for\ appropriate\ Collection\ class\r\n
+comment4.params=sortAscending
+comment4.target=void\ sortTilesOnRack(boolean)
+comment4.text=\r\n\ Sort\ tiles\ on\ rack\ (no\ built-in\ sorting\ method\ used)\r\n
+comment5.params=
+comment5.target=void\ shuffleTilesOnRack()
+comment5.text=\r\n\ Randomly\ shuffle\ the\ positions\ of\ all\ tiles\ on\ the\ current\ player's\ rack.\ \r\n\ \r\n\ NOTE\:\ Could\ also\ have\ used\ Collections.shuffle(\ Arrays.asList(a)\ ),\ but\ I\ chose\r\n\ \ \ \ \ \ \ instead\ to\ write\ out\ my\ own\ shuffle\ method\ here\r\n\ \ \r\n\ TODO\:\ For\ Project\ 4,\ replace\ this\ with\ Collections.shuffle(\ list\ )\ if\ using\ an\ ArrayList\r\n\ \ \ \ \ \ \ or\ LinkedList\ object\ to\ represent\ the\ rack\ of\ tiles\r\n
+comment6.params=
+comment6.target=void\ collectionShuffleTilesOnRack()
+comment7.params=tileArray\ fromPosition\ toPosition
+comment7.target=void\ swapTilesWithinRack(Tile[],\ int,\ int)
+comment7.text=\r\n\ Helper\ method\ for\ swapping\ positions\ of\ Tiles\ within\ the\ current\ Player's\ Rack\r\n\ Remember\ that\ the\ "value"\ being\ passed\ is\ a\ copy\ of\ the\ reference\ to\ the\ original\r\n\ array;\ thus,\ any\ changes\ here\ will\ be\ reflected\ in\ the\ original\ array\ as\ well.\r\n
+numComments=8

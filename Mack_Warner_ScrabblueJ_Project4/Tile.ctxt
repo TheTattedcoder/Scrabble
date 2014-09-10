@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile()
+comment0.text=\r\n\ No-argument\ constructor\ for\ objects\ of\ class\ Tile\r\n
+comment1.params=letter\ pointValue
+comment1.target=Tile(java.lang.String,\ int)
+comment1.text=\r\n\ No-argument\ constructor\ for\ objects\ of\ class\ Tile\r\n
+comment2.params=pointValue_local
+comment2.target=void\ setPointValue(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=int\ getPointValue()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment4.params=letter_local
+comment4.target=void\ setLetter(java.lang.String)
+comment4.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getLetter()
+comment5.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
